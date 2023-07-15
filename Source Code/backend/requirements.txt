@@ -1,0 +1,15 @@
+google-api-core
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+googleapis-common-protos
+httplib2
+openpyxl
+urllib3
+toml
+tomli
+types-requests
+types-urllib3
+requests
+requests-oauthlib

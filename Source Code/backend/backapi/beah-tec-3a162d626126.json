@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "beah-tec",
+  "private_key_id": "3a162d626126f86760ef753bc92f5ee22ee0bb72",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDkEn77REVk5hRi\ncRzSxSmvS9Vbq1P/FsBmEosfV8p6a5faZvJB77/sjjAVx2+jjyjDJXI3HvPfmAjM\n3f8sn5HXRbH6Dtzh0vrP64IIRjtda914B67ZQ9jWJaUVsXuBln13eFxvVn2dpmim\nVDXrG0JW2hUHbn+DRnnzZwqVd7jHcMVUx5iRKTDv1p1ss6IcEzd64yJtBHizjFUq\nhWMNu50WFpgMY0n5I+doITAy7+Uyd5EjRpLP6vKS+5XMHJkj5lJ0o6xMHcLIcBfW\nM4fNJyj4qiIPM13RQDZehxmT3k5Glv9NnKnw2i53TcjPxtNxLa0mwkHNSpAQv6te\nI/9mDPw1AgMBAAECggEAJXUiNMtIKGOfSnGwXa9zAq7OOlF/qKAIdlsqTToCb6u3\nE3Af7pNdLpFFtXX9UFwFQlOmmAX14K2cGGWHcME+VyBDtEF3poEbn0VbJFfAjT3X\ncEy2u0ko1jb1j4QIOEbKkXILoF+QnvFDM7oV5uihsxj7Ji7QM3PCOKceNmEk0GBW\nHsMrVhF0NDuW1lOTmfTOn396o+P0z3vClJPZf8BkwNqd963lp5G6h1ML8F8oTnZ6\ngqvaTeVf2dAVZo4IY3KyLyfz8bBU5B3IMWrm/iyoYbmiD4+Kx+lyV6PewNnb4vdB\notRxOk1Jl07WrlIvpIt8KqgbPl6tyrcI5jdFsyVcCwKBgQD8QIgCNtlgTuslHq5D\nnJHr9PU0e/k2ygb2dq4XP6bN1j0FEYLZXk4D3a3lXe/cbp8YQyp+pgp/EDrhmooH\nUUpzN0qX4xizTKV5Z8oX+njv9xXes9WDXvnWfPcwAu+cjTZakxVGvwR49gMGisqh\nNDMjJUMwPcRRtLegVrIzKN6ntwKBgQDndf586PlFJHNh5vRmoaY3yXlJ/TUNn9MG\nAO1IXaUDKgf1FRDzkpvmoaluNnoXBU30TKPEfizaChwKpT9+P7RXu7u71b394nOM\nxFFVcdD4St6U4la+4bjCD0s9BOy59SS9pv0FroXC57U9j/e2u90c9t7KPp/qJ4tH\n7BnDVXODcwKBgAKGYtYi1mowYAovFG940b0a5plv5D64Jvmwlm2FJZZJ3rJ+SmEC\noKVJQsRY/F2ofc8wXOyHnPNIpk47zcXk+mnM0+JRU5331nAwqcUzrKI6Ru3Dvw9h\nk/6hoZfJb7yRbUnazwu2PcU4MS+PlBeo/hoL9XA2LhDjTjM8quv4LMJhAoGBAJxs\n1u+N96Ct0LiygCu4RYBgTfMeB7PMdq4RBEuq1fE8f6I3eXxTcb89NCdC8+II+LUI\n8ojCCQfWWzsqkK1+2h+MxYRdIIireRICP0FyqRqUZrbR/HQGUnn8Ign8AQxvy0PM\nziT/3HBrbcZMPMonTnjbspeWGTcDQJL70jF715RXAoGALl9m2uzmQqW59/mUyu0q\ncWfG77Rjc5bn/3N9xWdi2xISvMIFYNVjczy3mvlGENbbLCPVESdLnKojirSps54m\nzg0cp7ZK43Nd7hlU41WnhT0hiPxR/9Nc8MiID+K6W9kSb5E6IpokJeiXe7/9UotF\nEu+qAP2s/VB4CADu6uRGogg=\n-----END PRIVATE KEY-----\n",
+  "client_email": "beah-tect-sc@beah-tec.iam.gserviceaccount.com",
+  "client_id": "110086976059304727656",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/beah-tect-sc%40beah-tec.iam.gserviceaccount.com"
+}
