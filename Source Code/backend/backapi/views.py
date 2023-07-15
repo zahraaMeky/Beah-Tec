@@ -46,9 +46,9 @@ import os
 from twilio.rest import Client
 import convert_numbers
 
-EMAIL_ADDRESS = 'support@beah-tec.com'
-EMAIL_PASSWORD = 'beAh@2022!'
-mail_server  = "smtp.ionos.com"
+EMAIL_ADDRESS = 'email'
+EMAIL_PASSWORD = 'pas'
+mail_server  = "smtp"
 mail_port = 465
 
 ############################################
@@ -527,8 +527,7 @@ def sendEmail(user, password, name, custmsg, subject, status, callFrom, projectC
     receivedMsg = custmsg
     # EMAIL_ADDRESS = 'techbeah@gmail.com'
     # EMAIL_PASSWORD = 'jsqxghkxazbcnbse'
-    # EMAIL_ADDRESS = 'beah-tec@beah.om'
-    # EMAIL_PASSWORD = 'beAh@2022!'
+   
     msg = EmailMessage()
 
     if callFrom == 'alert':

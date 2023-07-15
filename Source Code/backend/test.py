@@ -4,9 +4,9 @@ from email.mime.text import MIMEText
 from email.mime.image import MIMEImage
 from email.message import EmailMessage
 
-EMAIL_ADDRESS = 'support@beah-tec.com'
-EMAIL_PASSWORD = 'beAh@2022!'
-mail_server  = "smtp.ionos.com"
+EMAIL_ADDRESS = 'email'
+EMAIL_PASSWORD = 'pas'
+mail_server  = "smtp"
 mail_port = 465
 
 # Send Email Function
